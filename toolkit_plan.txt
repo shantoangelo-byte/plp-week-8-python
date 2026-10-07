@@ -1,0 +1,37 @@
+PERSONAL MINI-TOOLKIT PLAN
+
+Tool 1: Simple Calculator
+The calculator lets the user add, subtract, multiply, or divide two numbers.
+
+Concepts used: input, variables, conditionals, f-strings, arithmetic operators.
+
+Tool 2: To-Do List
+The to-do list lets the user add tasks, remove tasks, and view the tasks currently on the list.
+
+Concepts used: list, loop, conditionals, input, append(), remove(), in, f-strings.
+
+Tool 3: Number Checker
+The number checker asks for a number and tells the user whether it is even or odd and whether it is positive, negative, or zero.
+
+Concepts used: input, variables, conditionals, modulo operator, f-strings.
+
+EXACT MENU TEXT
+
+Welcome to My Personal Mini-Toolkit!
+
+Please choose a tool:
+
+1. Simple Calculator
+2. To-Do List
+3. Number Checker
+4. Quit
+
+Enter your choice:
+
+INVALID CHOICE MESSAGE
+
+Sorry, that is not a valid choice. Please choose a number from 1 to 4.
+
+GOODBYE MESSAGE
+
+Thanks for using My Personal Mini-Toolkit! Goodbye!
